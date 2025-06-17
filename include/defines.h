@@ -1,0 +1,18 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define DEFAULT_WORKERS 5
+#define MAX_SYNC_PAIRS 100
+#define MAX_FILES 100
+#define MAX_PATH 256
+#define MAX_COMMAND 1024
+#define MAX_LINE 512
+#define MAX_LOG_LINE 1024
+#define MAX_FILENAME 256
+#define MAX_CLIENTS 32
+#define MAX_THREADS 32
+#define MAX_QUEUE_SIZE 128
+#define BUFFER_SIZE 4096
+#define CHUNK_SIZE 4096
+
+#endif
