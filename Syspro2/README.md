@@ -62,7 +62,7 @@ make clean
 ### **Running NFS_MANAGER**
 Open a terminal:
 ```sh
-./nfs_manager -l manager.logfile -c config.txt -n <worker_count> -i <port_number> -b <buffersize>
+./nfs_manager -l manager.logfile -c config.txt -n <worker_count> -p <port_number> -b <buffersize>
 ```
 - `manager.logfile`: File to log manager activity.
 - `config.txt`: Configuration file with source/target directory pairs.
