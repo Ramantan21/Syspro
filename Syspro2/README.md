@@ -1,6 +1,6 @@
 # **Network File System (NFS)**
 
-## **Ramantan Konomi 201800281**
+## **Ramantan Konomi**
 
 This project implements a multi-threaded **Network File System (NFS)** in C. The system is designed to synchronize directories between source and target machines/ports using network sockets and threads.
 
